@@ -10,7 +10,7 @@
 
 ##   开发配置 
 * `yarn install  / npm install`
-* ``yarn build  /  npm build`
+* `yarn build  /  npm build`
 
 ##   介绍
 *    Webpack和React集成。一个简单的demo。可以用这个Demo练习，也可以用来搭建初始框架。
