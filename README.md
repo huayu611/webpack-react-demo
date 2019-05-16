@@ -5,7 +5,7 @@
 * Babel 7.4.3
 
 ## 下载
-* `git clone git@gitee.com/huayu611/webpack-react-demo.git`
+* `git clone https://gitee.com/huayu611/webpack-react-demo.git`
 * `cd webpack-react-demo`
 
 ##   开发配置 
